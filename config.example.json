@@ -1,0 +1,26 @@
+{
+    "daily_cipher": "CIPHER",
+    "accounts": [
+        {
+            "name": "NAME",
+            "token": "Bearer TOKEN",
+            "min_balance": 5000000,
+            "proxies": {},
+            "tap_range": [100, 750]
+        },
+        {
+            "name": "NAME",
+            "token": "Bearer TOKEN",
+            "min_balance": 1000000,
+            "proxies": {},
+            "tap_range": [100, 500]
+        },
+        {
+            "name": "NAME",
+            "token": "Bearer TOKEN",
+            "min_balance": 1000000,
+            "proxies": {},
+            "tap_range": [100, 500]
+        }
+    ]
+}
